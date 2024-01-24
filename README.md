@@ -6,4 +6,6 @@ Sorting is the process of arranging items systematically, and has two common, ye
 
 - Ordering: arranging items in a sequence ordered by some criterion;
 
-- Categorizing: grouping items with similar properties.
+- Categorizing: grouping items with similar properties
+
+This repo contains implementation of sorting algorithms using the python programming language..
