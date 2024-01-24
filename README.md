@@ -8,4 +8,17 @@ Sorting is the process of arranging items systematically, and has two common, ye
 
 - Categorizing: grouping items with similar properties
 
-This repo contains implementation of sorting algorithms using the python programming language..
+This repo contains implementation of sorting algorithms using the python programming language.
+
+The sorting algorithms covered here include the following: 
+
+ - Bubble Sort
+
+ - Selection Sort
+
+ - Insertion Sort
+
+ - Merge Sort 
+
+ - Quick Sort
+
